@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
